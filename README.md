@@ -1,4 +1,4 @@
 elastic-abandoned-roadrunner
 ============================
 
-A dead simple Rails REST service
+A dead simple Rails REST API service
